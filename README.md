@@ -20,9 +20,9 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhisheksingh512&show_icons=true&locale=en&layout=compact" alt="AbhiShek-Singh512" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbhiShek-Singh512&show_icons=true&locale=en&layout=compact" alt="AbhiShek-Singh512" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhisheksingh512&show_icons=true&locale=en" alt="abhisheksingh512" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AbhiShek-Singh512&show_icons=true&locale=en" alt="abhisheksingh512" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhisheksingh512&" alt="abhisheksingh512" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhiShek-Singh512&" alt="AbhiShek-Singh512" /></p>
 
