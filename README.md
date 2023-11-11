@@ -27,11 +27,11 @@
 # Featured Projects
 |[**DailyUpdates- News App**](https://github.com/abhishek-singh512/Daily-Updates-News-App)|
 |:-------------------------:|
-|# Daily UPDates - Top Entertainment Headlines
+# Daily-Updates - Top Entertainment Headlines
 ![NewPage2](https://github.com/abhishek-singh512/Daily-Updates-News-App/assets/118076036/b6a4eec7-c0c2-476e-997e-f49fed7a0ba4)
-# Daily UPDates - Top Technology Headlines
+# Daily-Updates - Top Technology Headlines
 ![NewsPage3](https://github.com/abhishek-singh512/Daily-Updates-News-App/assets/118076036/33b34593-7685-4d2f-b403-57758ac69c46)
-# Daily UPDates - Top Entertainment Headlines
+# Daily-Updates - Top Entertainment Headlines
 ![NewsPage2](https://github.com/abhishek-singh512/Daily-Updates-News-App/assets/118076036/0309ad02-954b-4424-be59-70030e3dcb8b) 
 <br>reating a News Application using web development technologies
 <br>like React.js, JavaScript, and other related tools can be an excellent project.
