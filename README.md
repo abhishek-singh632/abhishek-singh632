@@ -25,12 +25,27 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhiShek-Singh512&" alt="AbhiShek-Singh512" /></p>
 
 # Featured Projects
+# Projects: 1
 |[**1.DailyUpdates- News App**](https://github.com/abhishek-singh512/Daily-Updates-News-App)|
 |:-------------------------:|
+Creating a News Application using web development technologies like React.js, JavaScript, and other related tools can be an excellent project. Below is a detailed project description for a web-based News Application. 
 |# Daily-Updates - Top Entertainment Headlines
 ![NewPage2](https://github.com/abhishek-singh512/Daily-Updates-News-App/assets/118076036/b6a4eec7-c0c2-476e-997e-f49fed7a0ba4)
 |# Daily-Updates - Top Technology Headlines
 ![NewsPage3](https://github.com/abhishek-singh512/Daily-Updates-News-App/assets/118076036/33b34593-7685-4d2f-b403-57758ac69c46)
 |# Daily-Updates - Top Entertainment Headlines
 ![NewsPage2](https://github.com/abhishek-singh512/Daily-Updates-News-App/assets/118076036/0309ad02-954b-4424-be59-70030e3dcb8b) 
-Creating a News Application using web development technologies like React.js, JavaScript, and other related tools can be an excellent project. Below is a detailed project description for a web-based News Application. 
+
+# Projects: 2
+|[**2.Game-Flame**](https://github.com/abhishek-singh512/Game-Flame)|
+|:-------------------------:|
+# Game-Flame ( The 10 most popular sports in India! )
+Designing a sports website for sports lovers involves creating a platform that caters to the diverse interests and passions of sports enthusiasts. Below is a project description tailored for a sports website targeting avid sports fans.
+|# The 10 most popular sports in India!
+![SportsPage2](https://github.com/abhishek-singh512/Game-Flame/assets/118076036/bc3ad763-804e-467b-9150-91b2b3c1bf7c) 
+|# INDIAN SPORTS
+ ![SportsPage1](https://github.com/abhishek-singh512/Game-Flame/assets/118076036/24776351-d304-49f3-93c4-f2fe5b8ec5ab)
+|# Cricket
+![SportsPage3](https://github.com/abhishek-singh512/Game-Flame/assets/118076036/02d1eb27-96be-4579-8489-9c68b914ec80)
+|# The Indian Premier League (IPL)
+![SportsPage4](https://github.com/abhishek-singh512/Game-Flame/assets/118076036/54b91c4f-b1ba-4980-a0d6-d912d907276c)
