@@ -15,24 +15,18 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+
+  
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 </p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbhiShek-Singh512&show_icons=true&locale=en&layout=compact" alt="AbhiShek-Singh512" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AbhiShek-Singh512&show_icons=true&locale=en" alt="abhisheksingh512" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhiShek-Singh512&" alt="AbhiShek-Singh512" /></p>
-
-## Featured Projects
-| [**DailyUpdates- News App**](https://github.com/abhishek-singh512/Daily-Updates-News-App) |
-|:-------------------------:|
-| <img src="https://user-images.githubusercontent.com/118076036/282268937-b6a4eec7-c0c2-476e-997e-f49fed7a0ba4.png" height="500"><br>reating a News Application using web development technologies <br> like React.js, JavaScript, and other related tools can be an excellent project.<br> Below is a detailed project description for a web-based News Application. 
-
-| [**Game-Flame: Sports Application**](https://github.com/abhishek-singh512/Game-Flame) |
-|:-------------------------:|
-| <img src="https://user-images.githubusercontent.com/118076036/282267222-54b91c4f-b1ba-4980-a0d6-d912d907276c.png" height="500"><br>Sports website for sports lovers involves creating a platform <br> that caters to the diverse interests and passions of sports enthusiasts.<br> Below is a project description tailored for a sports website targeting avid sports fans. 
 
 
