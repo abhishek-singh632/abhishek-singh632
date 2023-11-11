@@ -25,7 +25,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhiShek-Singh512&" alt="AbhiShek-Singh512" /></p>
 
 # Featured Projects
-|[**DailyUpdates- News App**](https://github.com/abhishek-singh512/Daily-Updates-News-App)|
+|[**1.DailyUpdates- News App**](https://github.com/abhishek-singh512/Daily-Updates-News-App)|
 |:-------------------------:|
 |# Daily-Updates - Top Entertainment Headlines
 ![NewPage2](https://github.com/abhishek-singh512/Daily-Updates-News-App/assets/118076036/b6a4eec7-c0c2-476e-997e-f49fed7a0ba4)
