@@ -27,9 +27,12 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhiShek-Singh512&" alt="AbhiShek-Singh512" /></p>
 
 ## Featured Projects
-| [**DailyUpdates- News App**](https://github.com/abhishek-singh512/Daily-Updates-News-App) | [**Game-Flame: Sports Application**](https://github.com/abhishek-singh512/Game-Flame) |
-|:-------------------------:|:-------------------------:|
-| <img src="https://user-images.githubusercontent.com/118076036/282268937-b6a4eec7-c0c2-476e-997e-f49fed7a0ba4.png" height="300"><br>reating a News Application using web development technologies <br> like React.js, JavaScript, and other related tools can be an excellent project.<br> Below is a detailed project description for a web-based News Application. 
-| <img src="https://user-images.githubusercontent.com/118076036/282267222-54b91c4f-b1ba-4980-a0d6-d912d907276c.png" height="300"><br>Sports website for sports lovers involves creating a platform <br> that caters to the diverse interests and passions of sports enthusiasts.<br> Below is a project description tailored for a sports website targeting avid sports fans. 
+| [**DailyUpdates- News App**](https://github.com/abhishek-singh512/Daily-Updates-News-App) |
+|:-------------------------:|
+| <img src="https://user-images.githubusercontent.com/118076036/282268937-b6a4eec7-c0c2-476e-997e-f49fed7a0ba4.png" height="500"><br>reating a News Application using web development technologies <br> like React.js, JavaScript, and other related tools can be an excellent project.<br> Below is a detailed project description for a web-based News Application. 
+
+| [**Game-Flame: Sports Application**](https://github.com/abhishek-singh512/Game-Flame) |
+|:-------------------------:|
+| <img src="https://user-images.githubusercontent.com/118076036/282267222-54b91c4f-b1ba-4980-a0d6-d912d907276c.png" height="500"><br>Sports website for sports lovers involves creating a platform <br> that caters to the diverse interests and passions of sports enthusiasts.<br> Below is a project description tailored for a sports website targeting avid sports fans. 
 
 
