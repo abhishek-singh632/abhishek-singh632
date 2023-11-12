@@ -26,7 +26,7 @@
 
 # Featured Projects
 # Projects: 1
-|[**1.DailyUpdates- News App**](https://github.com/abhishek-singh512/Daily-Updates-News-App)|
+|[**1.Project Title: DailyUpdates - Your Dynamic News Platform**](https://github.com/abhishek-singh512/Daily-Updates-News-App)|
 |:-------------------------:|
 Creating a News Application using web development technologies like React.js, JavaScript, and other related tools can be an excellent project. Below is a detailed project description for a web-based News Application. 
 |# Daily-Updates - Top Entertainment Headlines
