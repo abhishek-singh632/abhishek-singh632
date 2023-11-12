@@ -26,7 +26,7 @@
 
 # Featured Projects
 # Projects: 1
-|[**1.Project Title: DailyUpdates - Your Dynamic News Platform**](https://github.com/abhishek-singh512/Daily-Updates-News-App)|
+|[**1.DailyUpdates - Your Dynamic News Platform**](https://github.com/abhishek-singh512/Daily-Updates-News-App)|
 |:-------------------------:|
 Creating a News Application using web development technologies like React.js, JavaScript, and other related tools can be an excellent project. Below is a detailed project description for a web-based News Application. 
 |# Daily-Updates - Top Entertainment Headlines
@@ -37,7 +37,7 @@ Creating a News Application using web development technologies like React.js, Ja
 ![NewsPage2](https://github.com/abhishek-singh512/Daily-Updates-News-App/assets/118076036/0309ad02-954b-4424-be59-70030e3dcb8b) 
 
 # Projects: 2
-|[**2.Game-Flame**](https://github.com/abhishek-singh512/Game-Flame)|
+|[**2.Game-Flame-Sports website for sports lovers**](https://github.com/abhishek-singh512/Game-Flame)|
 |:-------------------------:|
 |# Game-Flame ( The 10 most popular sports in India! )
 Designing a sports website for sports lovers involves creating a platform that caters to the diverse interests and passions of sports enthusiasts. Below is a project description tailored for a sports website targeting avid sports fans.
