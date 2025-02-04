@@ -3,7 +3,7 @@
 
 <!--- <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhisheksingh516&label=Profile%20views&color=0e75b6&style=flat" alt="abhisheksingh632" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-singh632&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-singh632" /> </p>
 <p align="left"></p>
 
 # Languages and Tools
@@ -21,7 +21,7 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek-singh632&show_icons=true&locale=en&layout=compact" alt="abhishek-singh632" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishek-singh632&show_icons=true&locale=en" alt="abhisheksingh516" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishek-singh632&show_icons=true&locale=en" alt="abhishek-singh632" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-singh632&" alt="abhishek-singh632" /></p>
 
 # Featured Projects
