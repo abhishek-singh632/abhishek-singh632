@@ -21,9 +21,9 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek-singh632&show_icons=true&locale=en&layout=compact" alt="abhishek-singh632" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishek-singh632&show_icons=true&locale=en" alt="abhishek-singh632" /></p>
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-singh632&" alt="abhishek-singh632" /></p> -->
-<p><img align="center" src="https://github-readme-stats-two-nu-79.vercel.app/api?username=abhishek-singh632&show_icons=true&theme=merkoalt="abhishek-singh632" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-status.vercel.app/api?username=abhishek-singh632&show_icons=true&locale=en" alt="abhishek-singh632" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-status.herokuapp.com/?user=abhishek-singh632&" alt="abhishek-singh632" /></p> -->
+
 
 # Featured Projects
 # Projects: 1
